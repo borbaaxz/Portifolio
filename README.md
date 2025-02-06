@@ -1,4 +1,7 @@
+
 # 🚗 Projeto: Integração de Frenagem Regenerativa e Painéis Solares
+
+![Screenshot 2025-02-06 024318](https://github.com/user-attachments/assets/87ec0337-d01e-4c76-bda9-08bef634e0a5)
 
 ## 🌍 Valores
 Acreditamos que a tecnologia pode ser uma grande aliada na construção de um futuro mais sustentável. Nosso compromisso é reduzir o impacto ambiental dos veículos, promovendo eficiência energética e incentivando o uso de fontes renováveis de energia no setor automotivo.
@@ -16,7 +19,8 @@ Este projeto combina conhecimentos de engenharia elétrica, mecânica e de softw
    - Aumenta a eficiência geral do sistema energético do veículo.
 
 2. **Painéis Solares**  
-   - Captam energia solar para alimentar os sistemas elétricos do carro.  
+   - Captam energia solar para alimentar os sistemas elétricos do carro. 
+
    - Reduzem a dependência de fontes de energia não renováveis.  
    - Aumentam a autonomia do veículo.
 
