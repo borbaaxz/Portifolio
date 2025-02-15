@@ -7,7 +7,7 @@
 Acreditamos que a tecnologia pode ser uma grande aliada na construção de um futuro mais sustentável. Nosso compromisso é reduzir o impacto ambiental dos veículos, promovendo eficiência energética e incentivando o uso de fontes renováveis de energia no setor automotivo.
 
 ## 📚 Saberes
-Este projeto combina conhecimentos de engenharia elétrica, mecânica e de software para integrar duas tecnologias sustentáveis em um veículo:
+Este projeto combina conhecimentos de engenharia de software para integrar duas tecnologias sustentáveis em um veículo:
 - **Frenagem Regenerativa**: Tecnologia que converte a energia cinética gerada durante a frenagem em eletricidade, recarregando as baterias e reduzindo o consumo de energia externa.
 - **Painéis Solares**: Dispositivos que captam a energia solar e a convertem em eletricidade para alimentar sistemas elétricos do veículo, ampliando sua autonomia e eficiência energética.
 
